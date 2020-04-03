@@ -1,0 +1,15 @@
+git status :  Afficher les actions effectuer sur les fichier dans le dossier local
+
+git add : Ajouter 1 ou plusieur fichier au dossier de git 
+
+git version : obtenir la version de git 
+
+Supprimer un fichier en local et faire un git add pour prendre en compte la suppresion ou faire le repertoire local en utilisant : git add .
+stage = changement  unstage = annuler changement 
+
+git restore --staged (files) : 
+
+git commit -m: Envoie les changements avec le paramétre m ( message ) pour le commmit 
+
+git log :  Affiche tous les commits effectué  
+
